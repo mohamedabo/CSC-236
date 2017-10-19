@@ -1,4 +1,6 @@
 ##################################################################
+# Author: Abdirahman Mohamed
+#usuername : mohameda
 '''
 A module for loading and displaying PPM-P3 files using Python 3.X
 
@@ -32,18 +34,12 @@ df.PPM_display()
 # Change image by changing pixellist:
 bc.PPM_updatefrompixellist(mylist)
 
-# Written by Dr. Jan Pearce, Berea College,
-  modified by Mario Nakazawa, Berea College --> PPM_convert2bin() was modified for Python 3.X
+#
 
 # Attributions:
     # Ben Stephenson: http://pages.cpsc.ucalgary.ca/~jacobs/Courses/cpsc217/W10/code/Topic7/ppm.py
     # working from a class: http://bytes.com/topic/python/answers/520360-trouble-displaying-image-tkinter
-# You also need to acknowledge having modifed this code and all other code you modify or use for assitance.
-#   To do so, you will indicate something like:
-#   Mopidied from code written by Dr. Jan Pearce
-#   Original code downloaded from:
-#   http://cs.berea.edu/csc226/tasks/yourusername-A15.py and
-#   http://cs.berea.edu/csc226/tasks/ppm.py
+
 '''
 ##################################################################
 import sys
