@@ -12,11 +12,6 @@
     # Ben Stephenson: http://pages.cpsc.ucalgary.ca/~jacobs/Courses/cpsc217/W10/code/Topic7/ppm.py
     # working from a class: http://bytes.com/topic/python/answers/520360-trouble-displaying-image-tkinter
 
-#   Modified from code written by Dr. Jan Pearce
-#   Modified by Mario Nakazawa, convert to run in Python 3.X. Commented references to tkinter which broke.
-#   Original code downloaded from:
-#   http://cs.berea.edu/csc226/tasks/yourusername-L3-ppm.py and
-#   http://cs.berea.edu/csc226/tasks/ppm.py
 ######################################################################
 
 import time
