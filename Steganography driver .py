@@ -6,7 +6,7 @@
 ##   Your names: Abdirahman Mohamed
 ##   Contributions: Abdirahman Mohamed
 ##   Purpose: Hides a message in an image then decode it.
-##   Acknowledgments: Alexander Smith, Dave Bell and Mario Nakazawa
+##   Acknowledgments: Alexander Smith, Dave Bell and Mario Nakazawa - All helped with debugging
 ######################################################################
 # Acknowledgements:
     # Ben Stephenson: http://pages.cpsc.ucalgary.ca/~jacobs/Courses/cpsc217/W10/code/Topic7/ppm.py
